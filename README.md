@@ -13,17 +13,17 @@ Classic Navigation Menu is a responsive bottom navigation menu with a modern des
 
 ## Demo
 
-[Live Demonstration](https://wyfir.github.io/Classic-Navigation-Menu/)
+[Live Demonstration](wyfir.github.io/classic_navbar/)
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/wyfir/Classic-Navigation-Menu.git
+   git clone https://github.com/wyfir/classic_navbar.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Classic-Navigation-Menu
+   cd classic_navbar
    ```
 
 # Css and JavaScript
@@ -43,7 +43,7 @@ Ensure you include the Boxicons CSS in your `<head>`:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 # Contributing
 
